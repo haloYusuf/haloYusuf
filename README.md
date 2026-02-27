@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haloYusuf&layout=compact](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haloYusuf&layout=compact&theme=transparent)" alt="Yusuf's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haloYusuf&layout=compact&theme=transparent" alt="Yusuf's Top Languages" />
 </p>
 
 ### 📫 Mari Terhubung!
