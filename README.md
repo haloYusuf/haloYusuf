@@ -19,10 +19,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haloYusuf&show_icons=true&theme=radium" alt="GitHub Stats" />
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haloYusuf&layout=compact)
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haloYusuf&layout=compact&theme=radium" alt="Top Languages" />
+  ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=haloYusuf&hide=contribs,prs)
 </p>
 
 ### 📫 Mari Terhubung!
