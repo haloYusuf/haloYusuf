@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, Saya [Nama Kamu]</h1>
-<h3 align="center">Seorang developer yang suka memecahkan masalah dari [Kota/Negara kamu]</h3>
+<h1 align="center">Hi 👋, Saya D. Yusuf Arrafi</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haloYusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
