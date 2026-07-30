@@ -13,7 +13,7 @@
 
 ### 🛠️ Bahasa & Alat yang Saya Gunakan
 * **Frontend:** HTML, CSS, TypeScript, React
-* **Backend:** Node.js, Express
+* **Backend:** Node.js, Express, Spring Boot, .NET
 * **Mobile:** Flutter, Android Native
 * **Database:** MySQL, Firebase
 
